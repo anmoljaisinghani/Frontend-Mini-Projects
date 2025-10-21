@@ -11,7 +11,7 @@ A simple clock application built with **HTML**, **CSS**, and **JavaScript** that
 
 ## Live Demo 🌐
 
-You can view the live demo of the clock [here](your-live-demo-link).
+You can view the live demo of the clock [here](https://project1-frontendminiprojects.netlify.app/).
 
 ## Screenshot 📸
 
